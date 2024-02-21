@@ -1,5 +1,5 @@
 const foo = () => {
-  return "Hi";
+  return "Hi, ciao";
 }
 
 module.exports = {foo}
