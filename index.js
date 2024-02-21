@@ -1,3 +1,5 @@
-exports.printMsg = function() {   
-    console.log("Hello World"); 
-  }
+foo();
+
+export default function foo() {
+  console.log("Hi");
+}

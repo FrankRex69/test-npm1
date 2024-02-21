@@ -1,5 +1,6 @@
 {
-  "name": "test-npm1",
+  "type": "module",
+  "name": "test-npm1-frex",
   "version": "1.0.0",
   "description": "test npm",
   "main": "index.js",
