@@ -1,7 +1,7 @@
 {
-  "type": "module",
+  "type": "commonjs",
   "name": "test-npm1-frex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test npm",
   "main": "index.js",
   "scripts": {

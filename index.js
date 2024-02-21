@@ -1,3 +1,5 @@
-export default function foo() {
-  console.log("Hi");
+const foo = () => {
+  return "Hi";
 }
+
+module.exports = {foo}
