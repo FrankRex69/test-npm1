@@ -1,0 +1,22 @@
+{
+  "name": "test-npm1",
+  "version": "1.0.0",
+  "description": "test npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankRex69/test-npm1.git"
+  },
+  "author": "Francesco Re",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankRex69/test-npm1/issues"
+  },
+  "homepage": "https://github.com/FrankRex69/test-npm1#readme"
+}
